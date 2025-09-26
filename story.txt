@@ -1,9 +1,10 @@
 Once upon a time in wonderland,
 there was a sea beyond imagination
 which was vast and blue
-<<<<<<< HEAD
 I sailed on a boat.
-=======
 but i got lost...
->>>>>>> funnyending
+funnyending
 story end
+I sailed on a boat.
+but i got lost...
+Story has ended
